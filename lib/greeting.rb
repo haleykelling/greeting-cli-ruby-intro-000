@@ -1,4 +1,4 @@
 # code the #greeting method here!
 def greeting(name)
-  puts "Hello #{name}! Welcome to the virtual world of HAL."
+  puts "Hello #{name}. It's nice to meet you."
 end
